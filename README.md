@@ -1,6 +1,6 @@
 # Thanpa PHP CodeSniffer Coding Standard
 
-A coding standard to check against the [Thanpa coding standards](http://www.thanpa.com/standards.html).
+A coding standard to check against the [Thanpa coding standard](http://www.thanpa.com/coding-standard.html).
 
 ## Installation
 
@@ -18,7 +18,7 @@ This standard can be installed with the [Composer](https://getcomposer.org/) dep
 
         bin/phpcs --config-set installed_paths vendor/thanpa/thanpa-coding-standard
 
-4. Check the installed coding standards for "Thanpa"
+4. Check the installed coding standard for "Thanpa"
 
         bin/phpcs -i
 
@@ -40,7 +40,7 @@ This standard can be installed with the [Composer](https://getcomposer.org/) dep
 
    Or copy/symlink this repository's "Thanpa"-folder inside the phpcs `Standards` directory
 
-4. Check the installed coding standards for "Thanpa"
+4. Check the installed coding standard for "Thanpa"
 
         phpcs -i
 

@@ -1,5 +1,5 @@
 {
-    "name": "thanpa/thanpa-coding-standards",
+    "name": "thanpa/thanpa-coding-standard",
     "type": "coding-standard",
     "description": "CodeSniffer ruleset for the Thanpa coding standard",
     "keywords": ["Thanpa", "coding standard", "phpcs"],
