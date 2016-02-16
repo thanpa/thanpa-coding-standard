@@ -1,0 +1,17 @@
+"repositories": [
+    {
+        "type": "package",
+        "package": {
+            "name": "thanpa/thanpa-coding-standards",
+            "version": "dev-master",
+            "source": {
+                "url": "git://github.com/thanpa/thanpa-coding-standards.git",
+                "type": "git",
+                "reference": "master"
+            },
+            "require": {
+                "php": ">=5.4.0"
+            }
+        }
+    }
+],
